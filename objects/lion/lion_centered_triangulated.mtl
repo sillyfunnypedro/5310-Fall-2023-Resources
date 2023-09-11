@@ -10,5 +10,5 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Bump material0_normal.png
-map_Kd material0_basecolor.png
+map_Bump material0_normal.ppm
+map_Kd material0_basecolor.ppm
