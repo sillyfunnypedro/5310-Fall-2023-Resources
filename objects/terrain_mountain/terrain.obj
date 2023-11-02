@@ -1,4 +1,4 @@
 # Blender v2.79 (sub 0) OBJ File: ''
 # terrain extension
 # terrain height_texture width depth w_divisions d_divisions max_height [surface_texture]
-terrain mountain.ppm 100 100 60 60 3 color.ppm
+terrain mountain.ppm 100 100 60 60 40 color.ppm
