@@ -1,3 +1,3 @@
 # Blender v2.79 (sub 0) OBJ File: ''
 # terrain extension
-terrain gradient.ppm 10 10 5 5 0.3
+terrain gradient.ppm 100 100 5 5 20
